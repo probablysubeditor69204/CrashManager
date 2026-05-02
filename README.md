@@ -1,2 +1,1 @@
-# CrashManager
-Core-engine of my crashmanager addon for pterodacttyl
+Core engine of my CrashManager addon for the Pterodactyl panel not the best, but works fine.
